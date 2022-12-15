@@ -36,6 +36,7 @@ public class Circle extends Shape{
     public String toString() {
         return "Circle{" +
                 "radius=" + radius +
+                ", pi='" + radius +
                 ", area='" + area() + '\'' +
                 ", perimeter='" + perimeter() + '\'' +
                 '}';
