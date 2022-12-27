@@ -5,10 +5,11 @@ import java.util.NoSuchElementException;
 public class ThrowKeyword2 {
     public static void main(String[] args) {
         throw new NoSuchElementException("No such Element");
+
         //    throw new InterruptedException();
 
 
-        //  System.out.println("hello world");
+        //  System.out.println("hello world"); after the throw we cannot code any code.
 
         // throw new Rectangle(5,7);
     }
