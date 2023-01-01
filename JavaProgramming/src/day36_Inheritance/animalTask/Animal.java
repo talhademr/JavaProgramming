@@ -35,7 +35,7 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "Animal{" +
+        return "Animall{" +
                 "name='" + name + '\'' +
                 ", breed='" + breed + '\'' +
                 ", gender=" + gender +
@@ -46,7 +46,7 @@ public class Animal {
     }
 }
 /*
-Animal:
+Animall:
 		name, breed, gender, size, age, color
 		setInfo(), eat(), drink(), move(), sleep(), toString()
  */

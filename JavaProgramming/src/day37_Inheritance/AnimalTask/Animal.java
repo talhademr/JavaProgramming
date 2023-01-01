@@ -34,7 +34,7 @@ public class Animal {
     }
 
     public String toString() {
-        return "Animal{" +
+        return "Animall{" +
                 "name='" + name + '\'' +
                 ", breed='" + breed + '\'' +
                 ", gender=" + gender +
