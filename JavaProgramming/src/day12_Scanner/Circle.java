@@ -8,7 +8,7 @@ public class Circle {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Enter the radius of the circle:");
+        System.out.println("Enter the radius of the Circle:");
 
         double r = input.nextDouble();
 
@@ -26,7 +26,7 @@ public class Circle {
 
 /*
 1. Circle:
-            1.1 Ask the user to enter the radius of the circle
-            1.1 Calculate the area and perimeter of the circle by using the radius
+            1.1 Ask the user to enter the radius of the Circle
+            1.1 Calculate the area and perimeter of the Circle by using the radius
 
  */
